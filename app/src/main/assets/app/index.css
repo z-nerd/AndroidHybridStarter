@@ -1,4 +1,6 @@
-html {
+body, html {
     background-color: yellow;
     color: gray;
+    margin: 0px;
+    padding: 0px;
 }
